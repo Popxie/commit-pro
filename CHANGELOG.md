@@ -1,4 +1,40 @@
-# [](https://github.com/Popxie/commit-pro/compare/v1.3.0...v) (2021-07-13)
+# [](https://github.com/Popxie/commit-pro/compare/v2.0.0...v) (2021-07-13)
+
+
+
+# [2.0.0](https://github.com/Popxie/commit-pro/compare/v1.3.3...v2.0.0) (2021-07-13)
+
+
+### Features
+
+* **07-18:** 第七次修改 ([bea6ebe](https://github.com/Popxie/commit-pro/commit/bea6ebe069b478b603341dbe5e70ad83e6887b05))
+
+
+
+## [1.3.3](https://github.com/Popxie/commit-pro/compare/v1.3.2...v1.3.3) (2021-07-13)
+
+
+### Features
+
+* **07-17:** 第六次更改 ([83f7570](https://github.com/Popxie/commit-pro/commit/83f757034338c90d888fa5fd870500ad45fa0690))
+
+
+
+## [1.3.2](https://github.com/Popxie/commit-pro/compare/v1.3.1...v1.3.2) (2021-07-13)
+
+
+### Features
+
+* **07-17:** 第五次更改 ([abfc284](https://github.com/Popxie/commit-pro/commit/abfc2840102438e5ca57845a2705a8e757d30bf2))
+
+
+
+## [1.3.1](https://github.com/Popxie/commit-pro/compare/v1.3.0...v1.3.1) (2021-07-13)
+
+
+### Features
+
+* **07-17:** 第四次变更 ([1dbee73](https://github.com/Popxie/commit-pro/commit/1dbee738dc9659d6a3532a244588ade7a7f68e0a))
 
 
 
